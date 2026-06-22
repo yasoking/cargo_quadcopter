@@ -12,5 +12,4 @@ Autonomous quadcopter system designed for payload transport using PID control, w
 ## Flight Test Video
 
 🎥 Watch the full demonstration:
-(https://github.com/yasoking/cargo_quadcopter/blob/main/images/document_5893171042553176802.mp4
-)
+https://photos.app.goo.gl/8mj1s2q8dPKqzvFZ8
