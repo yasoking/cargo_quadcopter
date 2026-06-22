@@ -9,7 +9,7 @@ Autonomous quadcopter system designed for payload transport using PID control, w
 </video>
 
 **[Download Demo Video](images/document_5893171042553176802.mp4)** - Watch the cargo quadcopter in action
-## Flight Test Video
+## Manufacturing
 
 🎥 Watch the full demonstration:
 https://photos.app.goo.gl/8mj1s2q8dPKqzvFZ8
